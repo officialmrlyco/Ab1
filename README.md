@@ -1,6 +1,6 @@
 ![Example](example.gif)
 
-# 🎬 Zenith Movies (Ad-Free Scraper)
+# 🎬 Zenith Movies
 
 A simple movie streaming frontend that pulls video sources using scripts originally based on Vidlink. This version removes ads and provides a clean, minimal playback experience.
 
@@ -49,8 +49,6 @@ Once deployed, your site will be live instantly.
 ## ⚠️ Important Notes
 
 * This project is for **educational purposes only**
-* Streaming copyrighted content without permission may violate laws in your country
-* The original scripts were modified to remove ads, but credit belongs to their respective creators
 
 ## 📌 Usage
 
